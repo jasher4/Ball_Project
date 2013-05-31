@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Balls()
+comment1.params=
+comment1.target=void\ gravity()
+comment2.params=backg
+comment2.target=void\ setBackground(Background)
+comment3.params=ball\ x\ y
+comment3.target=void\ mousePressed(Ball,\ int,\ int)
+comment4.params=ball\ x\ y
+comment4.target=void\ mouseReleased(Ball,\ int,\ int)
+comment5.params=ball
+comment5.target=void\ add(Ball)
+comment6.params=
+comment6.target=void\ remove()
+comment7.params=
+comment7.target=java.util.ArrayList\ getBalls()
+comment8.params=
+comment8.target=void\ act()
+comment9.params=g
+comment9.target=void\ drawBalls(java.awt.Graphics)
+numComments=10

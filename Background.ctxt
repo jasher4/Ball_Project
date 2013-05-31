@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=model\ arg
+comment0.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ drawBalls(java.awt.Graphics)
+numComments=3
